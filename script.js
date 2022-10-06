@@ -46,7 +46,7 @@ btn.addEventListener('click', () => {
            resposta = cont //(cont +' ')
            console.log(resposta)
            //resultado = document.getElementById(cont)
-           document.write(resposta)
+           document.write(' ', resposta)
            
         }
     }
